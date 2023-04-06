@@ -47,13 +47,10 @@ MySQL Workbench
 
 ![Screenshot_20230406_174446](https://user-images.githubusercontent.com/112809210/230391442-d642e87d-be40-44dc-a3c1-40e415498e24.png)
 
+![Screenshot_20230406_174423](https://user-images.githubusercontent.com/112809210/230391468-01c69d5e-2758-4372-a96d-a6dcf35e71f8.png)
+
 ![Screenshot_20230406_174459](https://user-images.githubusercontent.com/112809210/230391445-4143ed84-2f84-4b7e-87c0-857a7c4e5fa2.png)
 
 ![Screenshot_20230406_174510](https://user-images.githubusercontent.com/112809210/230391451-e489a602-2f49-47c5-a3c0-ed041738f768.png)
 
 ![Screenshot_20230406_174524](https://user-images.githubusercontent.com/112809210/230391462-f685ced9-8982-43bb-a83e-381ab9e48a24.png)
-
-![Screenshot_20230406_174423](https://user-images.githubusercontent.com/112809210/230391468-01c69d5e-2758-4372-a96d-a6dcf35e71f8.png)
-
-
-
