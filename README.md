@@ -1,13 +1,13 @@
 # Online-Job-Portal
 
-#About
+# About
 This is a demo website of the Online Job Portal where a person can register as a job provider or a job seeker. This site shows how an online website actually works & uses its databases to collect registered information; also gives an idea about how they help us to find perfect candidates for jobs. In this demo, the website can be run by Apache localhost.
 
-#Requirements
+# Requirements
 Xampp
 MySQL Workbench
 
-#Installation
+# Installation
 Install XAMPP
 
 Open XAMPP Control panal and start [apache] and [mysql] .
