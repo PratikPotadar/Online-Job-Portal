@@ -41,11 +41,19 @@ MySQL Workbench
 
 # Snapshots:
 
-![Uploading Screenshot_20230406_174423.png…]()
-![Screenshot_20230406_174436](https://user-images.githubusercontent.com/112809210/230391134-1253cfd3-e0c2-444f-919b-cd4a4a3b7d72.png)
-![Screenshot_20230406_174446](https://user-images.githubusercontent.com/112809210/230391138-d64bd68a-706c-4714-a96b-13e013ee5f46.png)
-![Screenshot_20230406_174459](https://user-images.githubusercontent.com/112809210/230391144-91a93c2a-cef6-4ce8-b817-5c05422d53b7.png)
-![Screenshot_20230406_174510](https://user-images.githubusercontent.com/112809210/230391150-97846fc0-a50d-419e-a2ae-132e7507cc99.png)
-![Screenshot_20230406_174524](https://user-images.githubusercontent.com/112809210/230391152-e96243da-a65d-4966-9d55-f5d39b61f683.png)
-![Screenshot_20230406_174411](https://user-images.githubusercontent.com/112809210/230391154-a048ed59-90d3-4f72-aba2-6b16b5552315.png)
+![Screenshot_20230406_174411](https://user-images.githubusercontent.com/112809210/230391378-93b4d4fa-fd42-4538-947c-c948ec77c5f3.png)
+
+![Screenshot_20230406_174436](https://user-images.githubusercontent.com/112809210/230391435-6632c257-3151-4425-b1f3-e6ae408c7c65.png)
+
+![Screenshot_20230406_174446](https://user-images.githubusercontent.com/112809210/230391442-d642e87d-be40-44dc-a3c1-40e415498e24.png)
+
+![Screenshot_20230406_174459](https://user-images.githubusercontent.com/112809210/230391445-4143ed84-2f84-4b7e-87c0-857a7c4e5fa2.png)
+
+![Screenshot_20230406_174510](https://user-images.githubusercontent.com/112809210/230391451-e489a602-2f49-47c5-a3c0-ed041738f768.png)
+
+![Screenshot_20230406_174524](https://user-images.githubusercontent.com/112809210/230391462-f685ced9-8982-43bb-a83e-381ab9e48a24.png)
+
+![Screenshot_20230406_174423](https://user-images.githubusercontent.com/112809210/230391468-01c69d5e-2758-4372-a96d-a6dcf35e71f8.png)
+
+
 
